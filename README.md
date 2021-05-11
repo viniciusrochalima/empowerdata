@@ -1,6 +1,6 @@
 # empowerdata
-Repositório dos cursos que ministro na Empowerdata
+Centro de Treinamento Online
 
-<center>
-<img scr="http://www.hypercubus.com.br/github/empowerdata/bannerEmpowerdata.png" alt="Empowerdata">
-</center>
+<p align="center">
+  <img src="http://www.hypercubus.com.br/github/empowerdata/bannerEmpowerdata.jpg">
+</p>
