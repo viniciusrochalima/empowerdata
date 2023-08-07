@@ -4,3 +4,4 @@
 - agora vai!
 - Adicionei uma nova funcionalidade
   - Cadastro de clientes
+  - Copiei tudo !
