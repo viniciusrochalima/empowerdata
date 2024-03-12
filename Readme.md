@@ -4,5 +4,5 @@
 - agora vai!
 - Adicionei uma nova funcionalidade
   - Cadastro de clientes
-- Adicionei mais uma nove funcionalidade
+- Adicionei mais uma nova funcionalidade
   - Cadastro de fornecedores   
